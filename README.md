@@ -17,7 +17,7 @@ fun main() {
     println("Novo valor: $numero")
 ```
 ## Exercício 2 — Variável imutável e tentativa de alteração
-Demonstra a criação de uma variável imutável (`val`) e a tentativa de alteração, que não é permitida. Para ilustrar, foi criada uma variável mutável separada.
+
 
 ```kotlin
 fun main() {
