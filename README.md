@@ -1,6 +1,6 @@
 # Exercícios Kotlin Básico
 
-Este repositório contém exercícios básicos em Kotlin para iniciantes, com foco em variáveis, estruturas condicionais, arrays, listas e laços de repetição.  
+Este repositório contém exercícios básicos em Kotlin, com foco em variáveis, estruturas condicionais, arrays, listas e laços de repetição.  
 Os exercícios foram desenvolvidos para fixar conceitos fundamentais da linguagem.
 
 ## Exercício 1 — Variável mutável com valor inicial e alteração
