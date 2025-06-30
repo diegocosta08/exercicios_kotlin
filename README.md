@@ -1,8 +1,5 @@
 # Exercícios Kotlin Básico
 
-Este repositório contém exercícios básicos em Kotlin, com foco em variáveis, estruturas condicionais, arrays, listas e laços de repetição.  
-Os exercícios foram desenvolvidos para fixar conceitos fundamentais da linguagem.
-
 ## Exercício 1 — Variável mutável com valor inicial e alteração
 Este exercício demonstra o uso de uma variável mutável (`var`) em Kotlin.  
 A variável é inicializada com o valor inteiro `6`; em seguida, o valor é alterado para outro número; e por fim, o valor atualizado é impresso no console.
